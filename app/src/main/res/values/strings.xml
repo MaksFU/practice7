@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UI elements</string>
+    <string name="someText">Произвольный текст</string>
+    <string name="ch">Check</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="rB1">RadioButton 1</string>
+    <string name="rB2">RadioButton 2</string>
+
+    <string name="sh">Show</string>
+
+</resources>
